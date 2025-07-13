@@ -1,0 +1,1 @@
+web: python binance_futures_webhook_bot.py
